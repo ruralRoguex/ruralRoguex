@@ -29,7 +29,7 @@ Reach me @
 
 Work — blake.green@executionspace.com
 
-Side Projects — blake@thebandjostudios.com
+Side Projects — blake@thebanjostudios.com
 
 LinkedIn — in/blake-green-85b768127
 
