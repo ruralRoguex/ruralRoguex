@@ -26,6 +26,11 @@ Daily — Liquid · SCSS · JavaScript · Shopify CLI / Shopify.dev · Python
 Side projects — React · Vue · Node · Discord API Process — Agile · estimations · technical documentation · release management · QA
 
 Reach me @
+
 Work — blake.green@executionspace.com
+
+Side Projects — blake@thebandjostudios.com
+
 LinkedIn — in/blake-green-85b768127
+
 Web — executionspace.com · roguextour.com · thebanjostudios.com
